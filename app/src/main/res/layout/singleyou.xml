@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/parent_relativeLayout"
+        android:layout_width="match_parent"
+        android:background="#e0e0e0"
+
+        android:layout_height="wrap_content" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:id="@+id/tit"
+            android:maxLines="1"
+            android:layout_margin="5dp"
+            android:textSize="18sp"/>
+
+        <com.google.android.youtube.player.YouTubeThumbnailView
+            android:id="@+id/youtube_thumbnail"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_margin="5dp"
+            android:layout_below="@+id/tit"
+            android:scaleType="fitXY"
+            android:visibility="visible"/>
+
+        <RelativeLayout android:id="@+id/relativeLayout_over_youtube_thumbnail"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:background="#00FFFFFF"
+            android:layout_margin="5dp"
+            android:layout_below="@+id/vidcontent"
+            android:visibility="visible"
+            android:gravity="bottom|end"
+            android:layout_alignParentTop="true">
+
+            <ImageView android:id="@+id/btnYoutube_player"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="center"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/you"/>
+
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/vidcontent"
+            android:layout_margin="5dp"
+            android:lineSpacingExtra="10dp"
+            android:textSize="16sp"
+            android:layout_below="@+id/youtube_thumbnail"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            />
+    </RelativeLayout>
+
+</LinearLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,197 @@
+{
+  "project_info": {
+    "project_number": "581670755704",
+    "firebase_url": "https://news-12ee6.firebaseio.com",
+    "project_id": "news-12ee6",
+    "storage_bucket": "news-12ee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581670755704:android:448cf9e2b47b5841",
+        "android_client_info": {
+          "package_name": "com.gmaxmart.gujratnagrikaawaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581670755704-upegnu90cdpdocqp0fel3t667ulen3fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWMiWFAaMzDgcHevDmyZbpRSbCm9jYiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581670755704:android:6aa3af06a04d1d97",
+        "android_client_info": {
+          "package_name": "com.gmaxmart.karansamajmahasabha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581670755704-upegnu90cdpdocqp0fel3t667ulen3fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWMiWFAaMzDgcHevDmyZbpRSbCm9jYiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581670755704:android:97c808374c64a9ab",
+        "android_client_info": {
+          "package_name": "com.gmaxmart.nsnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581670755704-upegnu90cdpdocqp0fel3t667ulen3fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWMiWFAaMzDgcHevDmyZbpRSbCm9jYiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581670755704:android:128a72140dd9b722",
+        "android_client_info": {
+          "package_name": "com.gmaxmart.rakshanews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581670755704-upegnu90cdpdocqp0fel3t667ulen3fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWMiWFAaMzDgcHevDmyZbpRSbCm9jYiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581670755704:android:ba4c74745d72a467",
+        "android_client_info": {
+          "package_name": "com.gmaxmart.ranevaexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581670755704-upegnu90cdpdocqp0fel3t667ulen3fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWMiWFAaMzDgcHevDmyZbpRSbCm9jYiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581670755704:android:5618cae2399539ce",
+        "android_client_info": {
+          "package_name": "com.gmaxmart.tajtodaynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581670755704-upegnu90cdpdocqp0fel3t667ulen3fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWMiWFAaMzDgcHevDmyZbpRSbCm9jYiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
